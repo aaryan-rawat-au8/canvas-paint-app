@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#heading {
+  color: rgb(76, 73, 73);
+  margin-bottom: 20px;
+}
+
+canvas {
+  border: 2px solid black;
+}
+
+.btn {
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 1rem;
+}
